@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IsotopeKonsole:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IsotopeKonsole_jar</output-path>
+    <root id="archive" name="IsotopeKonsole.jar">
+      <element id="module-output" name="IsotopeKonsole" />
+    </root>
+  </artifact>
+</component>

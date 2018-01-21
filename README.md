@@ -16,3 +16,6 @@ Folgende Zerfälle werden **nicht** berücksichtigt:
 * Zerfall unter Emission eines Protons
 * Zerfall unter Emission eines Neutrons
 * Cluster-Zerfälle
+
+# Vorraussetzungen
+Java 9 sollte auf ihrem Computer installiert sein. Da ich als Programmiersprache Java verwende, ist es egal welches Betriebsystem verwendet wird. Es läuft gleichermaßen unter Windows, Linux und MacOS.

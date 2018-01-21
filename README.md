@@ -8,7 +8,7 @@ Derweil verfügt das Programm über diese Arten von Zerfällen:
 * Beta- - Zerfall
 * Epsilon - Zerfall
 
-**Folgende Zerfälle werden nicht berücksichtigt:**
+Folgende Zerfälle werden **nicht** berücksichtigt:
 * Doppelter Betazerfall
 * Doppelter Elektroneneinfang
 * Isomerer Übergang
